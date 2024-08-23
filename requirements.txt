@@ -1,0 +1,7 @@
+jupyter
+pyzmq==23.2.1
+pytesseract
+pdf2image
+pandas
+spacy
+nltk
